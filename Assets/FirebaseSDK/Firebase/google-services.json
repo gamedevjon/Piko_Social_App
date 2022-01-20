@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159672979309",
+    "firebase_url": "https://piko-social-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "piko-social",
+    "storage_bucket": "piko-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159672979309:android:169637129e3c8aa567d464",
+        "android_client_info": {
+          "package_name": "com.pikosocial.piko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159672979309-no4abok6lq1ev9v4u5ivl04mlpepomn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SUrQvjy8ZHGOU6wd6nbfPz1pMz1ntRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159672979309-no4abok6lq1ev9v4u5ivl04mlpepomn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159672979309-i34i5lvgudnnbdfdbm9f0f58fbd6r57a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pikosocial.piko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
